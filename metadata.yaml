@@ -1,0 +1,28 @@
+_repo: McGuffey-s-Second-Eclectic-Reader_14668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McGuffey, William Holmes
+    birthdate: 1800
+    deathdate: 1873
+    gutenberg_agent_id: '5671'
+    url: http://www.gutenberg.org/2009/agents/5671
+    wikipedia: http://en.wikipedia.org/wiki/William_Holmes_McGuffey
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+title: McGuffey's Second Eclectic Reader
+url: http://www.gutenberg.org/ebooks/14668
